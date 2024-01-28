@@ -1,4 +1,5 @@
-# One page portfolio website
+# Fully responsive one-page portfolio website
+![Screenshot](https://github.com/AzizbekAvazov/reactjs-tailwind-portfolio-onepage/blob/main/screenshot.png)
 
 ## Technologies Used
 
