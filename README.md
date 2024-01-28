@@ -3,8 +3,6 @@
 ## Technologies Used
 
 - Front-end: ReactJS + TailwindCSS
-- Back-end: Java Spring Boot
-- Database: PostgreSQL
 
 ## Project Structure
 
