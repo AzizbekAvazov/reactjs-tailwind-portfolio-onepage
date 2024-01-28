@@ -3,7 +3,7 @@
 
 ## Technologies Used
 
-- Front-end: ReactJS + TailwindCSS
+- Front-end: ReactJS + TailwindCSS + Framer Motion
 
 ## Project Structure
 
